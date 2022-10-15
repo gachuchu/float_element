@@ -23,12 +23,12 @@ PowershellリファレンスのForeach-Objectのページを参考に
 1. 構文の1つ目を表示したままページを先に進めたい場合 
 <img src="https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic00.png?raw=true" width="50%">
 1. ハッチングされたエリアが別窓表示される部分です 
-![画像1](https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic01.png?raw=true)
+<img src="https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic01.png?raw=true" width="50%">
 1. クリックすると別窓に表示されます 
-![画像1](https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic02.png?raw=true)
+<img src="https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic02.png?raw=true" width="50%">
 1. 別窓なのでスクロールしても横に置いたまま表示できます
-![画像1](https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic03.png?raw=true)
+<img src="https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic03.png?raw=true" width="50%">
 1. 別窓はそれなりに拡大縮小ができます
-![画像1](https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic04.png?raw=true)
+<img src="https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic04.png?raw=true" width="50%">
 
 以上です。
