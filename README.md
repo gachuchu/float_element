@@ -16,3 +16,19 @@ Webを見ているときに、ページの最初のほうに出てきた情報�
 1. Ctrl + Alt キーを押す
 1. 別窓で表示したい要素をクリックする
 
+## サンプル
+
+PowershellリファレンスのForeach-Objectのページを参考に 
+
+1. 構文の1つ目を表示したままページを先に進めたい場合 
+![画像1](https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic00.png?raw=true)
+1. ハッチングされたエリアが別窓表示される部分です 
+![画像1](https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic01.png?raw=true)
+1. クリックすると別窓に表示されます 
+![画像1](https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic02.png?raw=true)
+1. 別窓なのでスクロールしても横に置いたまま表示できます
+![画像1](https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic03.png?raw=true)
+1. 別窓はそれなりに拡大縮小ができます
+![画像1](https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic04.png?raw=true)
+
+以上です。
