@@ -29,10 +29,10 @@ PowershellリファレンスのForeach-Objectのページを参考に
 クリックすると別窓に表示されます  
 <img src="https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic02.png?raw=true" width="50%">  
   
-別窓なのでスクロールしても横に置いたまま表示できます 
+別窓なのでスクロールしても横に置いたまま表示できます  
 <img src="https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic03.png?raw=true" width="50%">  
   
-別窓はそれなりに拡大縮小ができます 
+別窓はそれなりに拡大縮小ができます  
 <img src="https://raw.githubusercontent.com/gachuchu/github_images/main/float_element/pic04.png?raw=true" width="50%">  
   
 以上です。
